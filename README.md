@@ -1,5 +1,5 @@
 <h1 align="center">
-  BlooketUI
+  Levi's BlooketUI
   <br>
 </h1>
 
