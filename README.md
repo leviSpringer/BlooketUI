@@ -1,7 +1,7 @@
-<h2 align="center">
+<h1 align="center">
   Levi's BlooketUI
   <br>
-</h2>
+</h1>
 
 <p align="center">
   <a href="https://github.com/Blooketware/BlooketUI/blob/main/LICENSE/">
